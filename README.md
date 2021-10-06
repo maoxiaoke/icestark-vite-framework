@@ -1,18 +1,4 @@
-# ice-stark-layout
+# icestark-vite-framework
 
-## 使用
+A layout engine within [ice.js](https://github.com/alibaba/ice)'s vite mode for [icestark](https://github.com/ice-lab/icestark).
 
-- 启动调试服务: `npm start`
-- 构建 dist: `npm run build`
-
-## 目录结构
-
-- 应用配置: `src/app.js`
-- 路由配置: `src/routes.js`
-- 布局文件: `src/layouts`
-- 通用组件: `src/components`
-- 页面文件: `src/pages`
-
-## 效果图
-
-![screenshot](https://img.alicdn.com/tfs/TB14igtaVT7gK0jSZFpXXaTkpXa-2878-1368.png)
