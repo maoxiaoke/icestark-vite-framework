@@ -21,8 +21,7 @@
     "build-plugin-moment-locales": "^0.1.0",
     "eslint": "^7.30.0",
     "ice.js": "^2.0.0",
-    "stylelint": "^13.7.2",
-    "@ali/build-plugin-ice-def": "^0.1.0"
+    "stylelint": "^13.7.2"
   },
   "scripts": {
     "start": "icejs start",
