@@ -1,0 +1,29 @@
+{
+  "vite": true,
+  "plugins": [
+    [
+      "build-plugin-icestark",
+      {
+        "type": "framework"
+      }
+    ],
+    [
+      "build-plugin-fusion",
+      {
+        "themePackage": "@alifd/theme-design-pro",
+        "themeConfig": {
+          "css-prefix": "next-icestark-"
+        }
+      }
+    ],
+    [
+      "build-plugin-moment-locales",
+      {
+        "locales": [
+          "zh-cn"
+        ]
+      }
+    ],
+    "@ali/build-plugin-ice-def"
+  ]
+}
