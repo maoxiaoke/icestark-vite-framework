@@ -21,7 +21,7 @@ const asideMenuConfig = [
     icon: 'atm',
     children: [
       {
-        path: '/seller',
+        path: '/seller/',
         name: 'Vue Home',
       },
       {

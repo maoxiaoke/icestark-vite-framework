@@ -20,12 +20,12 @@ const appConfig: IAppConfig = {
         path: '/seller',
         title: 'seller',
         loadScriptMode: 'import',
-        entry: 'https://icestark-vite-vue.vercel.app/index.html'
+        entry: 'https://icestark-vite-vue.vercel.app/index.html',
       }, {
         path: '/waiter',
         title: 'waiter',
         loadScriptMode: 'import',
-        entry: 'https://icestark-vite-react.vercel.app/index.html'
+        entry: 'https://icestark-vite-react.vercel.app/index.html',
       }];
       return apps;
     },
